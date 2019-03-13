@@ -1,1 +1,1 @@
-# pluralsight-js-dev-env
+# NDM Projects
